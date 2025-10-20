@@ -9,7 +9,7 @@
         Discord: mivch2943
   
 - Skills:
-    Programming Languages: Python, C#, HTML/CSS, JavaScript
+  - Programming Languages: Python, C#, HTML/CSS, JavaScript
         Frameworks & Libraries: .NET, .WPF, React Native, Unity, Figma, Expo Go
         Development Tools: Git, Visual Studio, VS Code
         Database Management and Visualisation: SQL, MySQL, Power BI, Tableau
