@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sprifex
-- 👀 I’m interested in: Software, Game development, and Data Analysis
+- 👀 I’m interested in: Software development, Game development, and Data Analysis
 - 🌱 I’m currently learning: MySQL, Python, Azure, Git
 - 💼 I’m looking for a job
 
