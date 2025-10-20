@@ -4,9 +4,9 @@
 - 💼 I’m looking for a job
 
 - 📫 How to reach me: 
-        LinkedIn: https://linkedin.com/in/...
-        Instagram: kolia_ivanochko
-        Discord: mivch2943
+  - LinkedIn: https://linkedin.com/in/...
+  - Instagram: kolia_ivanochko
+  - Discord: mivch2943
   
 - Skills:
   - Programming Languages: Python, C#, HTML/CSS, JavaScript
