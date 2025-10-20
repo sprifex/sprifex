@@ -20,7 +20,8 @@
   - Version Control
   - Documentation
   - UI/UX Design
-  - Data Modelling,Project Management
+  - Data Modelling
+  - Project Management
   - Security Incident Management
   - Hardware Configuration and Installation
   - Database Management and Visualisation
